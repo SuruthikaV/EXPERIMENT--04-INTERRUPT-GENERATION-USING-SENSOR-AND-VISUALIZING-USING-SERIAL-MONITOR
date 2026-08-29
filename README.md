@@ -722,18 +722,13 @@ ep.4b
 
 
  ## Circuit board :
-ep.4a
+
 
 
 <img width="837" height="684" alt="WhatsApp Image 2026-08-26 at 6 19 28 PM" src="https://github.com/user-attachments/assets/bf7ecaf7-7c82-4499-8f42-5176d42603d8" />
 <img width="814" height="725" alt="WhatsApp Image 2026-08-26 at 6 19 45 PM" src="https://github.com/user-attachments/assets/b06c34f4-ccb6-4466-8464-31065da6f6a4" />
 
 
-ep.4b
-
-<img width="1086" height="1448" alt="WhatsApp Image 2026-08-26 at 5 58 59 PM" src="https://github.com/user-attachments/assets/5ee3e583-f7ba-45cc-a036-5d865fac8d45" />
-
- <img width="1200" height="1600" alt="WhatsApp Image 2026-08-26 at 5 58 59 PM (1)" src="https://github.com/user-attachments/assets/24516046-da19-4e08-a8a5-713ac1efeaac" />
 
  
 ## Result :
