@@ -725,8 +725,9 @@ ep.4b
 
 
 
-<img width="837" height="684" alt="WhatsApp Image 2026-08-26 at 6 19 28 PM" src="https://github.com/user-attachments/assets/bf7ecaf7-7c82-4499-8f42-5176d42603d8" />
-<img width="814" height="725" alt="WhatsApp Image 2026-08-26 at 6 19 45 PM" src="https://github.com/user-attachments/assets/b06c34f4-ccb6-4466-8464-31065da6f6a4" />
+<img width="987" height="1162" alt="image" src="https://github.com/user-attachments/assets/1a75b13c-7ee9-456e-96cd-227e18f75c49" />
+<img width="959" height="1158" alt="image" src="https://github.com/user-attachments/assets/c7d96e9d-afca-42ae-b5c4-df6ba4f0365a" />
+
 
 
 
