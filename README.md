@@ -411,7 +411,7 @@ ep.4a
  <img width="1920" height="1080" alt="Screenshot 2026-08-06 121256" src="https://github.com/user-attachments/assets/d9f37c3b-464f-43f5-8310-dc65c3d59529" />
 
  ep.4b
-<img width="1359" height="770" alt="obtacle detected" src="https://github.com/user-attachments/assets/dd82542b-b81e-41f7-a471-1c065a5a8a41" />
+<img width="1302" height="682" alt="image" src="https://github.com/user-attachments/assets/dfa19935-79ca-40d8-bffa-589ccb0edc6a" />
 
 
  ## Circuit board :
