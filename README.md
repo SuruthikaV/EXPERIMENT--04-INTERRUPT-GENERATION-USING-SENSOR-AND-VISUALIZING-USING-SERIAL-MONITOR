@@ -716,8 +716,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 <img width="1600" height="900" alt="WhatsApp Image 2026-08-21 at 3 18 32 PM" src="https://github.com/user-attachments/assets/58a049b3-10f3-4edf-a425-b4594b53937f" />
 ep.4b
 
-
-<img width="1359" height="770" alt="WhatsApp Image 2026-08-21 at 3 18 32 PM (1)" src="https://github.com/user-attachments/assets/5499c9d0-dbc1-4f63-a663-8a8bf65e61f9" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-09-07 at 1 06 16 PM" src="https://github.com/user-attachments/assets/8717d153-053e-41da-b13b-972c455ed13b" />
 
 
 
